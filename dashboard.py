@@ -4,11 +4,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import glob
-import os
-from datetime import datetime
-from datetime import timedelta
-import calmap
+
 
 # Create a connection object.
 sheet_name='dashboard'
